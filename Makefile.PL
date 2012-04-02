@@ -6,7 +6,5 @@ all_from 'lib/Template/Plugin/TruncateByWord.pm';
 requires 'Template';
 requires 'Encode';
 
-use_standard_tests;
-
 auto_include;
 WriteAll;
