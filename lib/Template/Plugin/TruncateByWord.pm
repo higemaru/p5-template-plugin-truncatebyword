@@ -6,7 +6,7 @@ package Template::Plugin::TruncateByWord;
 use strict;
 use warnings;
 
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 use Template::Plugin::Filter;
 use base 'Template::Plugin::Filter';

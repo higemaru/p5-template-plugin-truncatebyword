@@ -1,0 +1,7 @@
+/Template-Plugin-TruncateByWord-*
+/.build
+/_build_params
+/Build
+!Build/
+!META.json
+!LICENSE
